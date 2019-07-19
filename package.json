@@ -1,7 +1,7 @@
 {
   "name": "vue-ele-form-video-uploader",
   "description": "vue-ele-form 的视频上传组件",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -36,7 +36,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "lint-staged": "^8.1.5",
     "vue": "^2.6.10",
-    "vue-ele-form": "^0.2.5",
+    "vue-ele-form": "^0.3.0",
     "vue-template-compiler": "^2.6.10"
   },
   "gitHooks": {
