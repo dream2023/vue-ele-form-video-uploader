@@ -18,6 +18,11 @@ export default {
   mixins: [formMixin],
   components: {
     EleUploadVideo
+  },
+  data () {
+    return {
+      isUploadMixin: true
+    }
   }
 }
 </script>
