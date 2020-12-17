@@ -14,7 +14,7 @@ import EleUploadVideo from 'vue-ele-upload-video'
 import formMixin from 'vue-ele-form/lib/mixins/formMixin'
 
 export default {
-  name: 'EleFormVideo',
+  name: 'video-uploader',
   mixins: [formMixin],
   components: {
     EleUploadVideo
